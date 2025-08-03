@@ -70,7 +70,7 @@ This project implements a semantic legal document search system featuring:
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/dhaneshdalal2/Rag_based_LLM
     cd your-repo-name
     ```
 
