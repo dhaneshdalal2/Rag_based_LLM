@@ -154,7 +154,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 ## 🔗 Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact dhaneshdalal28@gmail.com.
 
 ---
 
