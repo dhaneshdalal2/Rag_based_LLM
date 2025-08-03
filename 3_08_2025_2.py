@@ -1,5 +1,3 @@
-pip install streamlit pandas chromadb sentence-transformers requests numpy
-
 import streamlit as st
 import pandas as pd
 import chromadb
@@ -345,5 +343,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
 
