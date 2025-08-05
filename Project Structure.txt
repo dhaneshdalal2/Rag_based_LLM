@@ -1,0 +1,7 @@
+legal-search-app/
+├── app.py                        # Your main Streamlit app script (see below)
+├── requirements.txt              # Python dependencies (see below)
+├── bns.csv                       # Legal documents CSV (should be included or provide instructions)
+├── logo.jpg                      # (optional) logo for the sidebar
+├── .gitignore                    # Files to ignore in git (see below)
+└── README.md                     # Project description and usage instructions (see below)
