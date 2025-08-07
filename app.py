@@ -69,7 +69,7 @@ with st.sidebar:
     - LLama2 LLM Explanations (on demand)
     """)
     st.markdown("---")
-    st.write("Developed with ❤️")
+
 
 @st.cache_resource(show_spinner=False)
 def load_reranker():
@@ -237,12 +237,12 @@ with c1:
     )
 with c2:
     top_k = st.slider(
-        "Number of top results (and reranked results)",
+        "Number of top results",
         min_value=1, max_value=10,
         value=5,
         key='main_top_k'
     )
-    st.markdown("<span class='small-label'>Number of results shown equals rerank size.</span>", unsafe_allow_html=True)
+    st.markdown("<span class='small-label'></span>", unsafe_allow_html=True)
 
 with st.container():
     st.markdown(" ")
